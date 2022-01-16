@@ -1,2 +1,2 @@
 # blender-Geometry-Node-typing
-Heres the blend file and script talked about in the video below.
+The Heres the blend file (created with Blender 3.0) and script talked about in the video below.
